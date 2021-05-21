@@ -1,5 +1,5 @@
 # cook your dish here
-def finding_factors(number):
+def finding_factors(number) -> int:
     total_factor = 0
     factors = []
     for each in range(1, number+1):
