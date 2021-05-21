@@ -16,11 +16,9 @@ def buy_please(a, b, x, y) -> int:
 
 if __name__ == '__main__':
     a, b, x, y = input().split()
-    a, b = int(a, b)
-    x, y = int(x, y)
-    # a = int(a)
-    # b = int(b)
-    # x = int(x)
-    # y = int(y)
+    a = int(a)
+    b = int(b)
+    x = int(x)
+    y = int(y)
     buy_please(a, b, x, y)
     #buy_please(1,1,4,8)
