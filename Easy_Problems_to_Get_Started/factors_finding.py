@@ -1,3 +1,4 @@
+# Problem Statement : https://www.codechef.com/CCSTART2/problems/DIFACTRS
 # cook your dish here
 def finding_factors(number) -> int:
     total_factor = 0

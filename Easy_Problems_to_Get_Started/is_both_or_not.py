@@ -1,3 +1,4 @@
+# Problem Statement : https://www.codechef.com/CCSTART2/problems/ISBOTH
 # cook your dish here
 def is_both_or_not(N) -> str:
     if N % 5 == 0 and N % 11 == 0:

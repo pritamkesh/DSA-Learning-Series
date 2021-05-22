@@ -1,3 +1,4 @@
+# Problem Statement : https://www.codechef.com/CCSTART2/problems/BUYPLSE
 # cook your dish here
 def buy_please(a, b, x, y) -> int:
     if a != 0 or x != 0:
